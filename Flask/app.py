@@ -86,7 +86,7 @@ def opencv():
             .create(
              body='Forest Fire is detected, stay alert',
              from_= '+12567877044', #twilio free number
-             to= '+918074619604')
+             to= '+91XXXXXXXXXX')
             print(message.sid)
         
             print('Fire Detected')
